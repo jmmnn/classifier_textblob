@@ -5,7 +5,7 @@ In the case of text classification it is often useful to use multiclass classifi
 However this example for simplicity only assigns one class to each sentence being classified.
 
 #Install dependencies
- $ sudo pip install -r requirements.txt
+ $ pip install -r requirements.txt
  
 # Afterwards download corpus for text training
 $ python -m textblob.download_corpora
