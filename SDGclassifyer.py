@@ -1,38 +1,40 @@
-#This is a single class text classifier example using a Naive Bayes algorithm. It is an adaptstion of the tutorial by http://textblob.readthedocs.io/
+#This is a single class text classifier example using a Naive Bayes algorithm. It is an adaptation of the tutorial by http://textblob.readthedocs.io/
 
 from textblob.classifiers import NaiveBayesClassifier
 from textblob import TextBlob
 
+#poverty trainer
+
 train = [
-    ('I am poor.', 'poverty'),
-    ('This society is in famine', 'hunger'),
-    ('Hot weather is affecting the economy', 'climate'),
-    ('This poor condition is lamentable.', 'poverty'),
-    ("What hunger in this town", 'hunger'),
-    ('I do not like this weather', 'climate'),
-    ('I do not have money.', 'poverty'),
-    ("The weather is so warm", 'climate'),
-    ('The food was lacking', 'hunger'),
-    ('My neighbor is poor.', 'poverty')
+    ('I am poor.', 'y'),
+    ('This society is in famine and poor', 'y'),
+    ('Hot weather is affecting the poor economy', 'y'),
+    ('This poor condition is lamentable.', 'y'),
+    ("What hunger in this poor town", 'y'),
+    ('I do not like this poor weather', 'y'),
+    ('I do have money.', 'y'),
+    ("The weather is so warm", 'n'),
+    ('The food was lacking', 'n'),
+    ('My neighbor is rich.', 'n')
 ]
 test = [
-    ('The poor suffer from lack of money.', 'poverty'),
-    ('Tha weather is getting hot', 'climate'),
-    ("the lack of food is overwhelming.", 'hunger'),
-    ("I don't have money", 'poverty'),
-    ('Gary does not have any food', 'hunger'),
-    ("Global climate weather change is happening.", 'climate')
+    ('The poor suffer from lack of money.', 'y'),
+    ('Tha weather is getting hot', 'n'),
+    ("the lack of food is overwhelming.", 'n'),
+    ("I don't have money", 'y'),
+    ('Gary does not have any food', 'n'),
+    ("Global climate weather change is happening.", 'n')
 ]
 
 cl = NaiveBayesClassifier(train)
 
 # Classify some text
-print(cl.classify("Their weather is getting hot."))  # "climate"
-print(cl.classify("I don't have food to eat."))   # "hunger"
+print(cl.classify("Their village was so poor"))  # "y"
+print(cl.classify("I have my sandals"))   # "n"
 
 # Classify a TextBlob
-blob = TextBlob("The weather was increasing in temperature. There were people without food. "
-                "My family did not have any money.", classifier=cl)
+blob = TextBlob("The poor weather was increasing in temperature. There were people without food. "
+                "My family did not have any money, they were very poor.", classifier=cl)
 print(blob)
 print(blob.classify())
 
