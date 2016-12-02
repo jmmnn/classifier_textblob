@@ -27,9 +27,13 @@ Crete new environment
 Activate the new environemnt  
 `$ source activate classifier`
 
+#Install dependencies ### Not using this line for now
+# $ pip install -r requirements.txt
+
 Install textblob and download corpora
 `$ pip install -U textblob`
 `$ python -m textblob.download_corpora`
 
 Run the classifier
 `$ python SDGclassifyer.py`  ### TO DO ### : Add parameters indicating source files and destination
+
