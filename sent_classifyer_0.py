@@ -36,36 +36,49 @@ def assignCorpus (path):
 
 #Run function above to load each corpus (train, analyzed, random)
 
-def sampleFromCorpora (setName, sources):
+def createCorpora (sources):
+    ''' sources is a list of corpora in this format:
+    [
+        [corpus, fileid, label , numSents = 5, startSent = 0],   # example: ['sdgs', 'wess2009.txt', 'tata' , 2, 0] ,
+        [etc. for each set of samples to add]
+    ]
     '''
-    #[
-    [corpus, fileid, label , numSents = 5, startSent = 0],
-    [etc. for each set of samples to add]
-    ]'''
-    setName = []
+    newSet = []
     for item in sources:
         corpus = assignCorpus(item[0])
         for sent in corpus.sents(item[1])[item[4]:item[4]+item[3]]:
-            setName.append((' '.join(sent) , item[2]))
-    print (setName)
-
-    # ['sdgs', 'wess2009.txt', 'tata' , 2, 0] ,
- 
+            newSet.append((' '.join(sent) , item[2]))
+    #print (newSet)
+    return newSet
 
 
-# Generic function to take data from a corpus and prepare it for textBlob
-# def sampleFromCorpora (corpus, label, fileids = ' ', numSents = 10, startSent = 0):
-#     '''numSents is the number of sentences to use, use startSent to avoid begining sentences'''
-#     test = []
-#     for sent in corpus.sents(fileids)[startSent:startSent+numSents]:
-#         test.append((' '.join(sent) , label))
-#     return test
+# helper function write to file function
+def writteToFile(filename, extension, content):
+    '''example: writteToFile('helloWorld' , '.txt' , 'Hello World')
+    '''
+    with open(filename + extension, 'w') as f:
+        f.write(content)
 
-#train = sampleFromCorpus()
 
-#run it three times to build the train, analyzed and random sets
+def classifyCorpus (model, path, toFile = 'yes' , onScreen = 'no'):
+    ''' Main function to classify the sentences of a corpus of documents
+    '''
+    corpus = assignCorpus(path)
+    contentToFile = []
+    for sent in corpus.sents() :
+        textChunk = ( model.classify(sent) , ' : ' , str(sent))
+        # if onScreen == 'yes':
+        #     print(textChunk)
+        #     pass
+        if toFile == 'yes':
+            contentToFile.append(textChunk)
+    writteToFile('result' , '.txt' , str(contentToFile))
+    return contentToFile
 
-# function to train the model
+
+
+
+
 def trainModel (algorithm, trainingSet):
     pass
 
