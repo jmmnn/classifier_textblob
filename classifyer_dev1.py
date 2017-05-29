@@ -2,7 +2,7 @@
 import nltk
 from textblob.classifiers import NaiveBayesClassifier
 from textblob import TextBlob
-#from nltk.corpus import wess 
+#from nltk.corpus import wess
 from nltk.corpus import gutenberg
 
 # lenght = len (corpus.raw())
@@ -10,6 +10,8 @@ from nltk.corpus import gutenberg
 #print (wess.fileids())
 #print (gutenberg.fileids())
 
+
+##### Creating a new corpus
 wess_dir = nltk.data.find('corpora/wess')
 print (wess_dir)
 

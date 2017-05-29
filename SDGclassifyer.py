@@ -30,20 +30,27 @@ cl = NaiveBayesClassifier(train)
 
 # Classify some text
 print(cl.classify("Their village was so poor"))  # "y"
-print(cl.classify("I have my sandals"))   # "n"
+#print(cl.classify("I have my sandals"))   # "n"
+print ('labels : ' , cl.labels())
+
+#See the probability of each label
+prob_dist = cl.prob_classify("Their village was so poor")
+print (prob_dist.max())  #the higherst probability
+print(prob_dist.prob("n")) #probability of no
+print(prob_dist.prob("y")) #probability of yes
 
 # Classify a TextBlob
-blob = TextBlob("The poor weather was increasing in temperature. There were people without food. "
-                "My family did not have any money, they were very poor.", classifier=cl)
-print(blob)
-print(blob.classify())
-
-for sentence in blob.sentences:
-    print(sentence)
-    print(sentence.classify())
+# blob = TextBlob("The poor weather was increasing in temperature. There were people without food. "
+#                 "My family did not have any money, they were very poor.", classifier=cl)
+# print(blob)
+# print(blob.classify())
+#
+# for sentence in blob.sentences:
+#     print(sentence)
+#     print(sentence.classify())
 
 # Compute accuracy
-print("Accuracy: {0}".format(cl.accuracy(test)))
+#print("Accuracy: {0}".format(cl.accuracy(test)))
 
 # Show 5 most informative features
-cl.show_informative_features(5)
+#cl.show_informative_features(5)

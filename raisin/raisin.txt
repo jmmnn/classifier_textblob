@@ -1,0 +1,1067 @@
+The Project Gutenberg EBook of The Raisin Industry, by Gustav Eisen
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Raisin Industry
+       A practical treatise on the raisin grapes, their history,
+       culture and curing
+
+Author: Gustav Eisen
+
+Release Date: May 26, 2017 [EBook #54790]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE RAISIN INDUSTRY ***
+
+
+
+
+Produced by MWS, Harry Lamé and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+Transcriber’s Notes
+
+  In this document, texts between _underscores_, =equal signs= and
+  ~tildes~ represent texts printed in italics, in bold face and
+  underlined texts, respectively.
+
+  More Transcriber’s Notes may be found at the end of this text.
+
+
+
+
+[Illustration: Muscat of Alexandria Raisin Grape, First Crop. One-half
+Natural Size.]
+
+
+
+
+  THE RAISIN INDUSTRY.
+
+  A PRACTICAL TREATISE
+  ON THE
+  RAISIN GRAPES,
+  THEIR HISTORY, CULTURE AND CURING.
+
+  BY GUSTAV EISEN.
+
+  SAN FRANCISCO:
+  H. S. CROCKER & COMPANY, STATIONERS AND PRINTERS,
+  1890.
+
+
+  Entered according to Act of Congress, in the year 1890, by
+  GUSTAV EISEN,
+  in the office of the Librarian of Congress, at Washington.
+
+
+
+
+PREFACE.
+
+
+Of late years the raisin industry has been prominently before the
+horticulturists of California. Many people now make their living and
+acquire wealth by the cultivation of the raisin grapes, and many are now
+studying the methods of cultivation, pruning, curing and packing while
+waiting for their vines to bear. The literature of the raisin industry
+is a very scant one, and, with the exception of a few notices in works
+of travel, or in treatises on general fruit culture, we find not a
+single book in which this important and interesting industry is made the
+special subject of study and discussion. A book on the raisin industry
+may, therefore, be considered timely. I have endeavored to so write it
+that it would contain something of interest to all those connected with
+the growing and curing of the raisin grapes, to those who have already
+succeeded in building up fame and fortune, as well as to those who have
+just begun the cultivation of the vine, and who have as yet only
+realized the pleasures, but not the profits, of the industry. The
+historical part of the book will principally interest the former; for
+the latter the practical part on cultivation, pruning, curing and
+packing is intended.
+
+As our climate and other conditions differ from those of any other
+country in the world, so must our methods of cultivation and curing
+differ from those practiced elsewhere. Foreign methods, while
+interesting and, in some respects, of great importance to us, had to be
+greatly modified and improved upon before our growers succeeded in
+producing raisins equaling the best from the raisin districts of the Old
+World. It has cost years of experimenting and study to attain success,
+as well as much money and disappointment to many who had nothing to
+guide them when they commenced.
+
+These processes by which success was achieved can now become the
+property of all, and a safe guide to even the most inexperienced
+beginners. The methods advocated here are the result of practical
+experience of the author, as well as of the most successful
+raisin-growers of this State.
+
+For the benefit of those of our readers who now study the raisin
+industry at a distance, but whose steps may in the future be directed to
+this Coast, a descriptive tour through the raisin districts of our State
+has been added in order that they may see what our country is like,--the
+country of the raisin and the fig; the country of almonds, olives,
+oranges and prunes; the country where health, profit and enjoyment are
+more than anywhere else derived from horticultural pursuits. It is for
+these prospective readers, that the short biographical sketches of our
+principal raisin-men are intended,--short records of the pioneers of the
+raisin industry,--men who have broken the way which is now easy to
+travel, and through whose experience and perseverance others are now
+being benefited.
+
+  GUSTAV EISEN.
+
+  SAN FRANCISCO, CAL., OCTOBER, 1890.
+
+
+
+
+TABLE OF CONTENTS.
+
+
+                                                                   PAGE.
+  HISTORICAL                                                           5
+
+      Raisins                                                          5
+
+      The Currant                                                      6
+
+      Muscatels                                                        7
+
+      Dehesa Raisins                                                   7
+
+      Lexias or Lye-dipped Raisins                                     9
+
+      Various Kinds of Raisins                                        10
+      --Muscatels; Currants; Belvideres; Black Smyrnas; California
+        Malagas; California Sun-dried Sultanas; Seedless Muscatels;
+        Thompson Seedless; Dried Grapes; Lexias; California Dipped;
+        Smyrnas; Faros; Huascos.
+
+
+  RAISIN DISTRICTS                                                    10
+
+    Foreign Districts                                                 10
+
+      Raisins in Ancient Times                                        10
+
+      Modern Raisin Districts                                         11
+
+      The Malaga District                                             12
+      --Extent and Age; Climate; Soil; location of the Vineyard;
+        Varieties of Grapes; Characteristics of the Raisins; Yield
+        of Grapes; Distances of the Vines; Pruning; Manuring and
+        Fertilizing; Drying Floors or Sequeros; Drying and Curing;
+        Packing; Labor.
+
+      Valencia and Denia                                              15
+      --Extent of the District; Soils and Appearance of the
+        District; Climate; Irrigation; Quality of the Raisins;
+        Planting and Care; Dipping and Scalding; Drying and Curing;
+        Packing and Disposing of the Crop; Export and Production.
+
+      Corinth and Currants                                            22
+      --Historical and Geographical Notes; Characteristics and
+        Quality; Soil and Irrigation; Preparation of the Land;
+        Distances of the Currant Vines; Care of Cuttings; Planting
+        and Grafting; Pruning the Vines; Care of the Vineyard;
+        Ringing the Branches; Drying and Curing; Cost of Currant
+        Vineyards in Greece; Consumption and Production.
+
+      Smyrna Raisins                                                  30
+      --Districts in Smyrna; Climate; Care of the Vines; Dipping,
+        Drying and Curing; Production and Export; Cost of Vineyards
+        in Smyrna; Other Varieties of Raisins.
+
+      Italy and Italian Raisins                                       36
+      --Lipari and Belvidere; Pantellaria; Calabria.
+
+      Chile and Huasco Raisins                                        36
+      --Characteristics; Location; Varieties; Soils; Climate;
+        Irrigation; The Vineyard; Drying and Curing.
+
+    California Raisin Districts                                       38
+
+      A General Review                                                38
+      --Early History; Later Planting; Acreage and Crops.
+
+      Yolo and Solano                                                 40
+      --Soil and Climate; The Vineyard; The Crop.
+
+      Northern California                                             43
+      --General Remarks; Placer County; Yuba County; Sutter County;
+        Colusa County; Butte County; Tehama County; Shasta County.
+
+      Fresno, Merced, Tulare and Kern                                 44
+      --Extent and Location; Soils and Climate; Irrigation; The
+        Vineyard; Pruning and Other Operations; The Crop.
+
+      San Bernardino County                                           48
+      --Location and Acreage; Climate; Irrigation; Soils; The
+        Vineyard; The Crop; The Profits and Other Items.
+
+      Orange County and Santa Ana                                     52
+      --General Remarks; Location; Climate; Soils and Ripening; The
+        Vineyard; The Crop and its Curing; Yield and Profits.
+
+      San Diego and El Cajon                                          55
+      --Location and Acreage; Climate and Rainfall; Soils; The Vines
+        and the Vineyard; The Crop.
+
+      Other Raisin Districts                                          59
+
+
+  CLIMATIC CONDITIONS, SOILS, LOCATION AND IRRIGATION                 60
+
+      Climatic Conditions Favorable and Unfavorable to the Raisin
+      Industry                                                        60
+      --Limits of the Raisin Districts; Dry Seasons, Spring and Fall
+        Rains; Winter Rains; Frost in Spring and Winter; Summer
+        Temperature; Winds, Injurious and Beneficial; Fogs and
+        Moisture in the Air; Ideal Conditions of Climate.
+
+      Soils                                                           67
+      --General Remarks; Malaga; Valencia and Denia; Smyrna; Zante;
+        Chile; Fresno; Other Soils in San Joaquin Valley; Orange
+        County; Redlands and Riverside; El Cajon; Subsoils; Hardpan
+        Soils; Comparative Value of Soils; Alkali Soils;
+        Fertilizing.
+
+      Irrigation                                                      77
+      --Introductory Notes; the Necessity of Irrigating the Raisin
+        Vines; Health and Longevity  of Irrigated Vines; The Bearing
+        Quality of Irrigated Vines; Quality of Irrigated Grapes;
+        Various Methods of Irrigation; Irrigation by Flooding;
+        Irrigation by Furrowing; Subirrigation; Seepage; Drainage;
+        The Influence of Irrigation on the Soil.
+
+      The Raisin Grapes                                               87
+      --Introductory Notes; Muscatel or Gordo Blanco; Muscat of
+        Alexandria; Huasco Muscat; Other Varieties of Muscat;
+        Seedless Sultana; Black Currant; Other Varieties of
+        Currants; Thompson Seedless; Other Seedless Grapes; Malaga;
+        Feher Szagos; Other Raisin Grapes.
+
+
+  DISEASES AND INSECT PESTS                                           93
+
+      Powdery Mildew or Uncinula                                      93
+      --General Notes; Characteristics; History and Distribution;
+        Remedies.
+
+      Downy Mildew or Peronospora                                     95
+      --General Notes.
+
+      The Vine Plague                                                 96
+      --Characteristics; Nature and Cause; Damages; Remedies.
+
+      Leaf-hopper                                                     98
+      --Characteristics; Damages; Distribution; Remedies.
+
+      Red Spider                                                     100
+      --Characteristics; Remedies.
+
+      Caterpillars                                                   100
+      --Characteristics; Damages; Remedies.
+
+      Black-knot                                                     102
+      --Characteristics; Remedies.
+
+      Grasshoppers                                                   102
+      --General Notes; Remedies.
+
+
+  THE RAISIN VINEYARD                                                104
+
+      Planting                                                       104
+      --Distances for Muscat Vines; the Marking Out of a Vineyard;
+        Relative Value of Cuttings and Rooted Vines; The Making of
+        Cuttings; The Care of Cuttings; Planting Cuttings; Care of
+        Young Cuttings; Transporting Cuttings to Distant Parts;
+        Rooting Cuttings; Care of Rooted Cuttings; Planting Rooted
+        Vines; Proper Time for Planting; Cost of Cuttings and Rooted
+        Vines; Winter Plowing; Plowing Devices; Cultivation; Back-
+        furrowing; Cross-plowing; Weed-cutters; Cutter-sled; Hoeing;
+        Time for Cultivation.
+
+      Grafting the Muscat on Other Stocks                            117
+      --Time for Grafting Raisin-vines; Points to be Observed in
+        Grafting; Various Methods of Grafting; Stocks and their
+        Influence.
+
+      Various Summer Work                                            121
+      --Sulphuring; Tying Over; Covering the Vines; Thinning the
+        Crop; Ringing the Vines; The Vineyard Labors of the Year.
+
+      Pruning                                                        124
+      --Winter Pruning or Pruning Hard Wood; Bleeding of the Vines;
+        Summer Pruning or Pruning Green Wood; Root-pruning;
+        Suckering.
+
+      Various Vineyard Tools                                         130
+      --General Notes; The Sheep’s-foot; The Planting-bar; The
+        Dibble; Planting Chains; Spades; Hoes; Plows; Cultivators;
+        Randel Disc Cultivators; The Ash-trough; Sulphuring Cans and
+        Bellows; The Cutter-sled; Vineyard Trucks; Shears.
+
+
+  DRYING AND CURING                                                  133
+
+      California Sun-dried Raisins                                   133
+      --Notes; Time of Ripening; Signs of Maturity; Picking;
+        Cleaning; Drying on Trays; Turning; Reversing; Slanting the
+        Trays; Elevating the Trays; Stacking Against Rain and Dew;
+        Taking Up; Covering; Drying-floors; Dryers; Sweatboxes;
+        Trays for Drying.
+
+      California Lye-dipped Raisins                                  149
+      --General Notes; Dipping Process; Drying and Curing; Stemming,
+        Grading and Packing.
+
+
+  THE PACKING-HOUSE                                                  153
+
+      Buildings and Mechanical Appliances                            153
+      --The Packing-house; The Stemmer and Grader; The Sweating-
+        house; The Presses; Boxes and Cartoons; Packing Frames and
+        Packing Trays; Facing-plate; Scales; Labeling Press; Tables;
+        Bags and Bagholders; Trucks; Trays for Weighing; Followers;
+        Paper; Tin Boxes.
+
+      Loose Raisins                                                  158
+      --Stemming and Assorting; Packing and Cleaning; Sacking;
+        Facing, Top-up Method; Facing, Top-down Method; Comparative
+        Value of the Two Methods.
+
+      Layer Raisins                                                  162
+      --Sweating and Equalizing; Packing Layers, Top-up Method;
+        Packing Layers, Top-down Method; Filling; Nailing and
+        Trimming; Labels.
+
+
+  STATISTICS OF IMPORTATION, PRODUCTION AND PRICES                   169
+      --Production of Raisins in California from 1873 to 1889;
+        Number of Acres in Raisin Grapes in California in 1890;
+        California and Malaga Prices, Importation, etc., from 1871
+        to 1889; Exports of Malaga Raisins from 1864 to 1889;
+        Exports of Valencia Raisins from 1850 to 1889; First Cost of
+        Crop of Valencia Raisins; Production and Distribution of
+        Smyrna Raisins from 1844 to 1884; World’s Raisin Production
+        in 1890; Importation of Raisins, Currants and Figs into the
+        United States from 1873 to 1878; Importation of Raisins,
+        Currants and Figs into the United States from 1879 to 1888;
+        Consumption of Currants and Raisins per Head of Total
+        Population in 1884; Prices Ruling in the California Raisin
+        Districts.
+
+
+  THROUGH THE CALIFORNIA RAISIN DISTRICTS                            181
+
+      Through San Joaquin Valley to Fresno                           181
+
+      From Los Angeles to Santa Ana                                  189
+
+      From Santa Ana to San Diego                                    192
+
+      El Cajon                                                       195
+
+      Riverside                                                      199
+
+      Redlands                                                       202
+
+      An Hour in a Packing-house                                     205
+
+
+  RAISIN-GROWERS AND THEIR VINEYARDS                                 208
+      --G. G. Briggs; R. B. Blowers; Robert McPherson; T. C. White;
+        Miss M. F. Austin; Joseph T. Goodman; A. B. Butler; William
+        Forsyth; A. D. Barling; San Joaquin Valley Raisin Packers of
+        1889.
+
+
+  LITERATURE                                                         215
+      --Introductory; List of Books of Reference.
+
+
+  GENERAL INDEX                                                      219
+
+
+
+
+THE RAISIN INDUSTRY.
+
+A PRACTICAL TREATISE ON THE RAISIN GRAPES, THEIR HISTORY, CULTURE AND
+CURING, WITH SPECIAL REFERENCE TO CALIFORNIA, BY GUSTAV EISEN.
+
+_Copyrighted._
+
+
+
+
+HISTORICAL.
+
+
+RAISINS.
+
+The word “_raisin_” as spelled and pronounced to-day, is not of very
+ancient origin, but rather a corruption and evolution of older words,
+both spelled and pronounced differently. Thus Falstaff replies to Prince
+Hal: “If reasons were as plentiful as blackberries, I would give no man
+a reason upon compulsion” (Henry IV, Act II, scene 4). Also, Cooper, in
+his dictionary of 1685, indicates that “_raisin_” and “_reason_” are of
+identical sounds. The derivation of the word has, again, been very
+variously suggested either from “red” or “rose” color, connecting it
+with the German and Danish word “_rosine_;” and it has even been
+suggested that the word was derived from the fact that the raisins were
+cured in the “rays” of the sun. The true derivation, however, is from
+the Latin word “_racemus_,” meaning a bunch or cluster. Richardson, who
+first points out this derivation, quotes: “Whether a reisyn (E. V.
+graap, _racemus_) of Effraym is not better than the vindages of Abiezer”
+(Wicliffe Judges VIIJ, 2). “And there shall be left in it as a rasyn”
+(E. V., braunches of a cluster). Marginal note, “A rasyn is a lytil bow
+with a lytil fruit” (Idem. Is., XVIJ., 6). But we have much older
+testimony of this derivation being the correct one. An old document
+states that, in 1265 A. D., the Countess of Leicester paid in London
+twelve shillings for fourteen pounds, or, as the statement reads in
+Latin, “_Pro uno fraello racemorum_;” which, translated, would be, “for
+one frail of bunches.” The evolution of the Latin word _racemus_ was
+thus seen to have been accomplished rapidly enough; but, on account of
+the illiteracy of the olden times, it was spelled and pronounced
+promiscuously. Thus we meet with such spellings as “_reysyns_,” in 1266;
+“_reysons_,” in 1447 (“Russell’s Book of Nurture”). In 1554 the
+_Stationers’ Company_ in London paid twopence for one pound of “_greate
+reasons_;” while Andrew Borde, in his “Dietary” of 1542, says that
+“_great raysens be nutrytyve, specyally yf the stones be pulled out_.”
+In 1578 Dodoens speaks of dried raysens. In 1685 the word “raisin” is
+used and spelled as in our days, and from that time on the different
+spellings were used, if not promiscuously, still without any great
+uniformity. The term of “greate raysens” was introduced to distinguish
+them from the smaller raisins, or currants. In our own days, the latter
+is seldom classed or alluded to as a “raisin” proper, although it,
+strictly speaking, should be considered as such. The tendency at present
+in California is to make the distinction between “raisins” and “dried
+grapes,” meaning by the former certain varieties of grapes which have
+been skillfully dried and cured, and which are superior in taste,
+flavor, thinness of skin and saccharine matter. “Dried grapes,” again,
+are simply any kind of grape, especially wine-grapes, which have only
+been dried, and which have not undergone that skillful treatment which
+the grape-grower is so proud of, and justly enough designates as
+“curing.” They are an outgrowth from the late efforts of the French wine
+merchants to make genuine French wine out of anything that is sweet, and
+as they are immensely preferable to beets, potatoes and glucose, they
+will always be in demand.
+
+With the above definition of the “raisin” accepted, we can proceed to
+consider their different varieties, their names and derivations. The old
+designations of the different varieties were derived from the places
+where they were produced, without special reference to the grapes from
+which the raisins were made. Thus we had Malagas, Currants, Valencias,
+Denias, Turkish and Italian raisins. But since it has been found that
+the same kinds of raisins have been produced in very different
+localities, and that some localities can produce all the different
+kinds, a new division has been found necessary. Thus, disregarding the
+many various brands with which this and other markets are flooded, the
+following different varieties of raisins will be found the principal
+ones: _Currants_, _Muscatels_, _Dipped_ and _Sultana_.
+
+
+THE CURRANT.
+
+The _currant_ is one of the very oldest raisins known. As early as 75 A.
+D. Pliny speaks of the fine grapes grown in Greece, the berry being
+thin-skinned, juicy and sweet, and the bunch being exceedingly small.
+This, then, must be the currant of later times. After this first mention
+of this grape, the same drops out of history for ten centuries, and the
+name currant is first to be identified with raisins de Corauntz, or
+rather, “reysyns de _Corauntzs_” as late as 1334. As early as the
+eleventh century, a lively traffic in this kind of raisins had taken
+place between the Greek producers, the _Venetians_ and other of the
+Mediterranean merchant nations. In 1334 we find them called “corauntz;”
+in 1435, “corent;” and old MS. of the Grocers’ Company in London, speaks
+of “x butts and vi roundelletts of resins of Corent.” Thus spelled, the
+name was used for years. In 1463 “reysonys of Corawnce” were three pence
+per pound, and in 1512 the Duke of Northumberland paid two pence per
+pound for rasyns of Corens. In 1554 the name had changed to currans, and
+the Stationers’ Company provided for a banquet “5 punde of currans at
+one shilling and eight pence.” In 1558 the same company provided for “6
+punde of currance for 2 shillings.” In 1578 we find in Lytes’
+translation of Dodoens’s “Herbal,” in the description of different
+varieties of vines, that “Small raysens, commonly called Corantes, but
+more rightly raysens of Corinthe. The fruit is called in the shoppes of
+the countrie,[1] passulae de Corinthe; in French, raisins de Corinthe;
+in base Almaigne (Dutch) Corinthea; in English, Currantes, and small
+raysens of Corynthe.” Here, then, is indicated for the first time that
+the true and correct name should be “raisins of Corinth.” But we need
+not follow this evolution any longer; there can be no possible doubt
+that the name _currant_, the one now accepted for this class of raisins,
+is derived from the town of Corinth, on the mainland of Greece,--the
+Morea of our days, the Peloponnesus of the ancients. Until the time when
+the Turks conquered Greece, the port of Corinth was the principal point
+of export for this class of raisins, and while, after the subjection of
+Greece this commerce entirely ceased, still this fruit always continued
+to bear the name by which it first became known to commerce.
+
+  [1] Holland, Dodoens was a learned Dutch botanist.
+
+
+MUSCATELS.
+
+The principal and most valued class of raisins are the Muscatels or
+Muscats. They all derive their name from the Muscatel or Muscat grape,
+from which these raisins are made. As to the origin of the name Muscat,
+opinions differ. The most popular one is that the grape got its name
+from the supposed musky flavor peculiar to this variety of grape. It is,
+however, far more likely that the name is a very ancient one, and
+derived from the Latin word _Musca_, meaning a fly,--these fine grapes
+when drying being especially attractive to flies. The Romans called this
+grape, “Uva Apiaria,” meaning bee grapes, or grapes beloved by bees,
+from the fact that the bees are especially attracted to these grapes
+when they are being dried. The Muscat or Muscatel would then not
+originally designate a certain variety of grapes, but grapes used for
+drying generally. In the course of time the name was transferred to or
+especially given to the _best_ grape for drying purposes,--the Muscatel
+of our own times.
+
+
+DEHESA RAISINS.
+
+The finest or at least the most expensive brand of raisins made is the
+_Dehesa_ raisin of Malaga. They are produced from the Muscatel variety
+and the name they bear has an interesting origin, giving us at the same
+time an insight in the development of the agricultural and horticultural
+resources of Spain. The word “Dehesa” is found by reference to a good
+Spanish dictionary to mean pasture ground. The “Dehesa” raisins then are
+pasture-ground raisins, or raisins grown on former pasture ground. The
+way the raisins came to be given such a name is as follows. Between the
+years 800 and the end of the fifteenth century, the fairest part of
+Spain as well as Portugal was occupied by the Moors. Contrary to their
+nature in other countries, they proved here extremely industrious, and
+excelled both as merchants, artisans and agriculturists. The waters of
+the streams were conducted to the land in aqueducts, dams were thrown
+across the rivers, reservoirs were formed, and the whole of Southern
+Spain became most highly cultivated, rich and prosperous. In fact, if
+the historians are to be believed, and the yet remaining views of former
+grandeur can be trusted, no country either in ancient or modern times
+has ever in prosperity rivaled the ancient Moorish kingdoms of Granada
+and Andalusia. In the thirteenth century the Christian knights and kings
+of Central and Northern Spain succeeded in conquering the Moors, who
+again were unmercifully expelled, massacred or enslaved, their cities
+burned and razed, and the fertile and cultivated districts utterly
+ruined. Vast tracts were depopulated and abandoned, and, nature taking
+its course, wild grass, shrubbery and trees soon covered the former
+highly cultivated plains. In the course of time these uncultivated lands
+attracted the attention of the highland shepherds, who drove their herds
+to them during the winters, again returning to the mountains at the
+advent of the dry season.
+
+By degrees the self-taken rights of the sheepmen became more widely
+recognized, and, while the less valuable lands were taken possession of
+by the poorer peasantry, these pasture lands were set apart for the
+exclusive use of the sheep-owners. The pasture lands thus being free, it
+was no wonder that the sheep industry flourished, and that the flocks
+increased. The wool industry soon became one of the most important in
+Spain. The flocks were principally owned by nobles and monks, and the
+poor peasants, who constituted the only agricultural population, had
+very little if any chance to oppose the ever greater encroachments of
+the wandering flocks or their insolent owners. The Merinos, or moving
+sheep, were wintered in the warm valleys of Andalusia, Murcia and
+Estremadura, only to be again removed to the cooler mountains of Leon
+and Castille at the advent of spring. What curse this would entail on
+the agricultural population is easy to be seen. The sheep were moving in
+bands of 10,000 each, and 700 to 800 such flocks were moved annually
+twice through a country devoid of fences or inclosures of any kind.
+Numerous disputes and constant bloody fights arose between farmers and
+the shepherd, to settle which the “Council of the Mesta” was instituted.
+In tyranny, this dreaded institution was only equaled by the famous
+Inquisition, with which in birth and death it was almost
+contemporaneous. In the year 1556 a code of laws was promulgated, and a
+compromise was entered upon. But the tyranny of the shepherds, upheld
+through their “Mesta,” was in no way diminished. The latter continually
+extended its power, encroached upon new territory, appropriating
+gradually the finest pastures of Spain, and finally obtained a monopoly
+of the wool trade. Its tyranny became at last intolerable. The shepherds
+of the Mesta were more dreaded than robbers and highwaymen in every
+place through which they passed. Agriculture became almost impossible.
+At last the “Mesta” was abolished by the Cortez in Cadiz in 1812, and a
+few years afterwards the pastures or Dehesas were sold. One of the
+finest Dehesas near Velez, Malaga, was planted to Muscatel grapes, and
+through the combined fertility of the soil, and the abundance of
+moisture, the vineyard proved a great success. So fine were the grapes
+grown there that they attracted great attention; no such fine grapes had
+ever been seen in Andalusia before. The merchants to whom the first
+raisins were sold were much astonished, and wonderingly asked whence
+they came. The reply, “from the Dehesa,” was from that time on applied
+to the finest Muscatel grapes.
+
+
+LEXIAS, OR LYE-DIPPED, AND OTHER RAISINS.
+
+The third class of raisins are the _dipped_ raisins, so called from
+being dipped in boiling lye before being dried and cured. The Spanish
+name for these raisins is _Lexias_. The name _Lexia_ is, again, derived
+from a more ancient word, the Latin _lixivium_, or _lixia_, meaning
+_lye_. To-day the continental name for this class of raisin is _Lexias_,
+when the more specific names of Denias and Valencias are not used. Here,
+in America, we generally use these names, and whenever we speak of
+Valencias and Denias we mean the dipped raisins of these districts. To
+the above three classes of raisins we might appropriately add Sultanas
+and Malagas. The Sultanas are made from the Sultana grape, a seedless
+grape from Asia Minor, now grown in many Mediterranean countries, as
+well as here in California. The Malagas, again, were originally the
+Muscatels grown around Malaga, in Spain; but of late this name is being,
+with considerable confusion, applied to a coarser raisin made in
+California from a grape here called, for want of a better name, the
+Malaga grape.
+
+Among names which were formerly much used, but which have gone out of
+use, was the Solis, or sun-dried raisins, especially the sun-dried
+Muscatels of Malaga. As early as 1295 A. D., the Muscatels were
+generally called thus: Raisins of the sun; Solis, or sun-dried, so as to
+distinguish them from the inferior dipped, or Lexias. In our own time,
+this name was nearly being revived, when a couple of years ago our
+California _sun-dried_ raisins were spoken of in opposition to our
+_machine-dried_ raisins, and when both classes had their earnest and
+enthusiastic champions.
+
+We cannot leave this chapter on names without referring to classes of
+raisins receiving their names from certain localities. Of course, the
+number of such names may be almost endless. It is, however, only of
+interest to refer to the principal ones, such as have been known to
+commerce in former days or are yet known. Thus, we designate as Malagas
+any of the raisins grown and shipped from Malaga. The Smyrnas (formerly
+Smirna) are those from Smyrna, in Asia Minor, both sun-dried and dipped
+raisins; the Alicantes, dipped raisins, from Alicante, in Spain; the
+Denias, dipped raisins from Denia, in Spain; the Valencias, dipped
+raisins from Valencia (include Denias); the Lipari, raisins from the
+Island of Lipari, near Sicily; the Belvideres, from the same island and
+from the Island of Pantellaria; the Calabrian raisins, from Calabria, in
+Italy; the Faro raisins, from the port of Faro, in Algarve, Portugal. We
+have above already referred to the currants, from the town of Corinth
+and the Grecian Islands, and the Malagas, from Malaga. The latter were
+also known as “great raisins,” on account of their superior quality.
+Among the latter we should, of course, count the California raisins;
+but, unfortunately, our raisin-growers have not until quite recently
+recognized the necessity of adopting names which should at once show the
+locality where the raisins are produced. But we will return to this
+further on.
+
+
+VARIOUS KINDS OF RAISINS.
+
+_a._ _Sun-dried_ raisins.
+
+1. _Muscatels_, or Muscats, from Malaga or California. The former, also
+known at various periods as “Solis,” or sun-dried, or “great raisins,”
+on account of their very superior qualities.
+
+2. _Currants_, raisins made of the small currant grape, originally from
+Corinth.
+
+3. _Belvideres_, raisins from Calabria, in Italy, and from the Islands
+of Lipari and Pantellaria, near Sicily.
+
+4. _Black Smyrna_, properly only a dried grape, not exported to this
+country.
+
+5. California _Malagas_, made from the Malaga grape.
+
+6. California sun-dried _Sultanas_, made from the Sultana grapes in this
+State. And, lastly,--
+
+7. _Seedless Muscatels_, made in California, and being the smallest
+Muscats separated from the larger seed-bearing berries.
+
+8. _Thompson Seedless_, a new, very promising raisin now being produced
+in this country from vines imported originally from Constantinople,
+producing seedless grapes, slightly larger than the Sultanas.
+
+9. _Dried grapes_ of any description, especially wine grapes, exported
+from this and Mediterranean countries for wine-making to France, England
+and the Eastern States.
+
+_b._ _Dipped_ raisins.
+
+10. _Lexias_, or Dipped Muscatels, from Denia, Valencia, Alicante, in
+Spain.
+
+11. California Dipped, especially second-crop Muscatels. Proper name not
+yet established.
+
+12. Smyrnas, which again may be either _Sultanas_, _Chesmes_ or
+_Elemês_. The first from the Sultana grape, the two latter, the “red”
+grapes, from Dipped Muscatels.
+
+13. _Faros_, from Algarve, in Portugal, not known in this country.
+
+_c._ _Dried in the shade._
+
+14. _Huasco_ raisin, from Chile. To this list might be added many more
+varieties of less importance.
+
+
+
+
+RAISIN DISTRICTS.
+
+
+_FOREIGN DISTRICTS._
+
+
+RAISINS IN ANCIENT TIMES.
+
+Previous to the production of raisins in California within the last
+twenty years, the raisin industry of the world was entirely confined to
+the Mediterranean district of Europe and Asia. At that period, however,
+raisin grapes became more disseminated, and raisins were produced to
+begin with in small quantities in widely distant countries, such as
+Chile, Australia and California. By virtue of their climatic conditions,
+the Mediterranean countries were the only parts of Europe where raisin
+culture could be successfully carried on, though it is almost certain
+that the original home of the raisin grapes must be looked for
+elsewhere. In searching for the original habitat for the ancient
+varieties of raisin grapes, we must look further east to ancient Persia,
+or to the tablelands of Western Asia generally. In remotest antiquity,
+grape culture was carried on there, and in the ancient records of
+travelers in those countries we find mentioned dried and seedless
+grapes. We can trace the origin of two varieties of raisin grapes to the
+beginning of our era, which must then already have attained perfection.
+As has been mentioned before, Pliny spoke of a small, sweet and
+remarkable grape grown by the Greeks, evidently the “currant;” he also
+mentions _Uva Zibebae_ and _Uva Alexandria_.
+
+The Latins generally spoke of Uvae Apiariae or Uvae Muscae, our present
+Muscatels or dried grapes generally. This carries us back fully nineteen
+centuries. But we may well believe, even in want of records, that the
+drying of grapes was practiced centuries before.
+
+
+MODERN RAISIN DISTRICTS.
+
+Leaving remote antiquity, it was only in the Mediterranean basin, and in
+comparatively modern times, that the drying of grapes developed to an
+important industry, and in more recent times yet that grapes were
+exported to Northern Europe. While thus the industry is old, it was not
+until the eleventh century, at the time of the Crusades, that it became
+important. The returning knights brought with them taste for and
+acquaintance with the products of the East. Northern Europe became the
+consumers of raisins, regarding them as the greatest luxuries, only to
+be afforded by the rich. It has been reserved for our time to make the
+raisin a necessity even in humbler homes. The perfection to which the
+raisin industry has attained is of modern origin not yet half a century
+old.
+
+The raisin districts of the world are not large, and while for centuries
+every effort was made to extend the planting of raisin grapes and their
+curing into raisins, few of these efforts have been crowned with
+success. While raisin grapes may grow and be turned into raisins in
+almost every part of the Mediterranean basin, experience has
+demonstrated that it has only proved a paying business in comparatively
+few localities. The reasons of this are not fully apparent; but they are
+evidently dependent both upon climatic conditions and upon the
+capability of the natives to learn and profit by the experiences of
+others, and upon their enterprise in venturing upon a new industry. On
+the other hand, it is not likely that, even with extensive experiments
+and with the aid of large capital, the growing and curing of the raisin
+grapes could be very extensively extended. The question there as well as
+here is not one alone of agricultural consideration, but a financial
+problem dependent upon the labor supply, the facilities for shipping,
+climatic conditions during the curing season, etc. Such being the case,
+all the more interest is attached to those localities and districts
+where the raisin industry flourishes, and where there is every
+probability that it will remain a success.
+
+
+THE MALAGA DISTRICT.
+
+
+_Extent and Age of the District._--Malaga has been known to export
+raisins since 1295 A. D., but must have been a raisin-producing district
+centuries before. The raisin cult, then, is no doubt of Phœnician
+origin, and has been practiced in the same locality for two thousand
+years or more. Under the Romans the raisin industry was continued, but
+appears to have deteriorated and later on to have been abandoned
+altogether, as the local tradition credits the Moors with having
+re-introduced the raisin grape into Velez Malaga. The raisin district of
+Malaga extends along the southern coast of Spain for a distance of sixty
+or seventy miles. The district is subdivided into several other
+districts. Thus, the subdistrict of Malaga proper occupies a plain
+eighteen miles long by nine miles wide, in the northeast corner of which
+is situated the town of Malaga.
+
+The best part of the whole district is, however, found at Velez Malaga,
+situated northeast of Malaga proper. It was here the raisin grape was
+first planted by the Romans or Phœnicians, and it was here also the
+devastating phylloxera first made its appearance. The raisin vineyards
+extend here not over a _vega_ or plain, but occupy the fertile country
+along the coast or the litoral towards Malaga proper.
+
+Beyond Velez Malaga to Algaroba, the Muscatel grape is of inferior
+quality, and is greatly superseded by the red Muscats, principally
+exported to France.
+
+Another district is _Marbella_, on the coast, and in the interior we
+find _Ronda_ and _Albuñol_. Of the principal towns in these districts,
+the population of Malaga is 120,000, that of Velez Malaga 24,000, of
+Marbella 7,700, and of Ronda 19,000.
+
+
+_Climate._--The climate of Malaga is the very mildest. Frost is almost
+unknown, and is never heavy. The average temperature of Malaga during
+the winter months of November to January is 56 degrees Fahrenheit, while
+that of Pau in France is 41, and that of Nice 47. Malaga is well
+sheltered on the north and east by mountains, but is open to the south.
+It is the most equitable climate of Europe, although the winds are
+sometimes trying. The summer is very tempered. The air is, however,
+moist, and fog, while rare, is not entirely absent. Rain sometimes falls
+during the growing season of the grapes, and quite frequently during the
+drying season. But the fog is warm and not specially injurious to the
+grapes, the latter often growing within reach of the spray on the
+seashore.
+
+
+_Soil._--The soil of the Malaga vineyards varies considerably, the best
+being a reddish clayey loam with much sand and gravel. But we have also
+other varieties of soil, such as the white ash, gray alluvial soils, and
+the very sandy loam on the hills.
+
+
+_Location of the Vineyards._--In former years, the vineyards were
+principally located on the hillsides, only occasionally extending to the
+level plains. Of late, however, the hillside vineyards have suffered
+from the phylloxera and various other diseases, and many of them have
+been dug up. The lowland vineyards are now the best, although even they
+are, by far, not free from disease. Few of the vineyards are located on
+entirely level ground, there being but little such in the district. The
+nature of the country is rolling, with small valleys or flats. The
+raisin grapes grow apparently well both inland and on the coast.
+According to Consul Marston, about eighty per cent of the vineyards are
+situated on rolling land, ten per cent on lowland and ten per cent on
+the very coast. The vineyards on the coast are actually within reach of
+the spray.
+
+The vineyards are generally small, none being over eighty acres in
+extent. Most contain, perhaps, from three to four acres each; while from
+twenty to forty acres is considered a good-sized vineyard.
+
+
+_Varieties of Grapes._--The principal variety used is the Gordo Blanco
+or Muscatel. It is identical with the grape known by us under that name,
+and which was imported to us from Malaga. But several types are found,
+although none superior to the Gordo Blanco.
+
+
+_Characteristics of the Raisins._--The Malaga raisins were, until
+lately, the finest raisins in the world, and for the present have only
+the California raisins to compete with. They are characterized by great
+sweetness, deep bluish color, great size and by good keeping qualities.
+The best raisins are those called Dehesas, being produced on the valley
+lands of the districts.
+
+
+_Yield of Grapes._--The yield of Malaga vineyards varies of course. The
+best yield eight or nine tons of grapes to the acre,--just like those of
+California. But there is a great difference between new and old
+vineyards. In many vineyards where formerly the yield was nine tons, the
+soil has been so exhausted by continuous croppings that to-day, even
+with manuring, two or three tons of grapes must be considered a high
+yield.
+
+
+_Distances of the Vines._--The older vineyards had their vines set seven
+feet by seven feet, but of late the vines are planted generally eight
+feet by four feet, thus much closer than by us in California.
+
+
+_Pruning._--The pruning of the vineyard is performed very much as in
+California. Formerly the soil had to be removed from the vines before
+they could be pruned; now this is not necessary except while the vines
+are very young. The various branches are pruned back to a few inches,
+with two eyes each, while the heads are elevated only a few inches above
+the ground.
+
+
+_Manuring and Fertilizing._--The Malaga vineyardist fully understands
+the value of manuring his vineyards, and uses for this purpose not only
+all fertilizers available at home, but also imports directly from
+distant countries. The most valued fertilizers are the Mexican and
+Chilean guanos or phosphates. The Mexican phosphate costs in Malaga
+sixty-five dollars per ton; still it is used by all the principal
+vineyardists, who know the value of fertilizers. In fact, concentrated
+fertilizers are a necessity to the Malaga vineyards; without them they
+could not be cropped. Even the most virgin soil is exhausted in ten
+years’ time by constant croppings of raisin grapes; no paying crops
+could be expected if fertilizers were not used yearly. This fertilizing
+of the soil is, however, of recent origin, and fifty years ago was
+almost unknown.
+
+When home manures are used, it is placed in holes dug round the roots of
+the vines, which, after exposure to the air for several months, are
+again filled up at the advent of spring, generally in March, before the
+vines start to bud.
+
+
+_Drying-floors, or Sequeros._--The raisins, when picked, are dried on
+so-called _sequeros_, or drying-floors, characteristic of the Malaga
+district. These floors are of different sizes and lengths in different
+vineyards, but everywhere constructed on the same general principles.
+Where an incline or a hill is found, the floor may simply be built on
+the slope, with no artificial elevation; but, where the ground is level,
+the structure of the _sequero_ is different. The floor must always face
+the south, and the back is raised to give the floor the proper slope.
+The _sequero_ thus consists of four walls, the front one of which is
+only a foot high, and the back wall from six to eight feet high. The
+side walls slope between these, generally with an angle of forty-five
+degrees. In length, these floors vary from forty to fifty feet,
+according to the different ideas of the vineyardists. The whole interior
+is filled with black gravel, and is tamped hard. These _sequeros_ are
+divided in beds, fourteen feet or so wide, by tiles that are sunk, thus
+forming walks of several feet in width, and which also serve for leading
+off the rainwater. Around every little bed of this kind are small
+upright tiles to prevent the rainwater entering from the walks. Finally,
+in the center of the bed, is a long row of upright tiles, high enough to
+support either boards, mats, or more generally canvas, in order that
+they may shed the rain into the tile walks. The value of such floors is
+evident. Being covered with canvas, etc., every night, the heat is
+preserved, and every morning, when the sun rises, the grapes are yet
+warm. The drying on such beds has never, in fact, been interrupted. The
+drying-floors are also useful in case of too hot weather, when the
+grapes can be properly sheltered with canvas and prevented from being
+cooked; when finally dried, the covering, again, will serve to keep the
+moisture from too quickly evaporating.
+
+
+_Drying and Curing._--When the grapes are picked, the best vineyardists
+separate the bunches immediately in three different grades. Each grade
+is placed by itself on the gravelly drying-ground, and remains there to
+dry. When half dried, they are taken bunch by bunch by a workman, who
+picks out bad or overdried berries and rubbish, and in putting the bunch
+back turns it over. In ten days the grapes are generally dried, provided
+the weather has been favorable. Every night the canvas covering is slid
+down over the _sequero_, and the grapes protected from dew and cold, or
+rain. The drying is sometimes greatly hastened by the _Terral_ or hot
+winds blowing from the plains of La Mancha, a wind very similar in its
+effect to the desert wind of Riverside and Santa Ana, in California.
+
+
+_Packing._--The raisins in Malaga are packed by the large growers
+themselves, and every such grower packs almost to a man. The generally
+accepted idea that a few packers living in Malaga pack all the raisins
+is erroneous. This is not the case.[2] Nearly all packers there are also
+growers owning their own vineyards. The raisins are all packed in
+22-pound boxes or in quarters, etc., according to the demands of the
+trade.
+
+  [2] According to A. B. Butler.
+
+The various raisin brands packed in Malaga are different according to
+the different markets that are to be supplied. Thus for England we have:
+Finest Dehesa, three crown; finest Dehesa, two crown; finest Dehesa, one
+crown; Dehesa; Choice layers; London layers, three crown; London layers,
+two crown; London layers, one crown.
+
+For France again we have: 1 Imperiaux; 1 Royaux; Couches; Surchoix;
+Choix; Ordinaire; Surcouches, etc.
+
+The loose raisins or _Brena_ and the seedless or _Escombro_ generally go
+to the continent or even to the United States. The old terms Garoon or
+Sun are now never used.
+
+For American markets we have: Imperial Dehesa; Royal finest Dehesa;
+finest Dehesa; fine Dehesa; Dehesa; London layers, three crown; London
+layers, two crown; London loose, one, two and three crown.
+
+Boxes are generally made from fir imported from Portugal, at fifteen
+cents each. Of late years, however, they are also received from Canada,
+and cost only seven cents each.
+
+
+_Labor._--The labor in Malaga is the most expensive in Spain, the best
+laborer being paid forty cents per day, while in Denia the labor is
+obtained for fifteen cents only; but it must be remembered that the
+packing of the Malaga raisins is a much more particular work than the
+packing of the dipped Denias.
+
+The price paid for Malaga raisins at the packing-house is at an average
+of seven cents per pound for the best, or from one to two cents more
+than what is paid in California. The lower grades bring from two and a
+half cents upwards.
+
+
+VALENCIA AND DENIA.
+
+
+_Extent of the Districts._--The Valencia raisins, or, as they are
+called, the Lexias or Spanish dipped raisins, are produced in the
+province of Valencia, situated on the east coast of Spain. The district
+contains three sub-districts, the southern one, the Alicante district,
+extending from Villa Joyosa in the north to Elche in the south. The
+raisins of the Alicante district are inferior to those produced in the
+other districts, both as regards quality and quantity. The most
+northerly district is the Valencia district proper, extending from
+Cullera in the south to Castellon in the north. North of the latter
+place the Muscat grape does not come to perfection, and even within this
+district comparatively few raisins are now produced as compared with a
+few years ago. But the bulk of all the raisins produced in the province
+are exported from Valencia city, and hence these raisins are known as
+Valencias, while in reality they come principally from Denia.
+
+The bulk of the Valencia raisins come from the central district, or the
+Denia sub-district, comprising the land between Villa Joyosa in the
+south and Cullera in the north, or about thirty miles on each side of
+the town of Denia. Towards the interior the raisin district extends at
+the most nine miles, but the average is less, so that the whole district
+over which the Denia vineyards are spread includes only an area of 350
+square miles, equal to ten townships of land, or about 224,000 acres. A
+large part of this land is not cultivated, and consists of mountains and
+waste places only suitable as watersheds. The town of Denia is the
+principal town of the sub-district, and has now a population of about
+2,600 people. It is situated about half way between Valencia in the
+north and Alicante in the south, on the shore of the Mediterranean, in
+about the latitude of Sacramento in California, or thirty-eight degrees,
+fifty minutes north. Being one of the oldest towns in Spain, Denia was
+first founded by the Phœnicians, who here established the worship of
+Diana, from which word the name Denia is a corruption. The Phœnicians
+also introduced the grapes, and possibly also the drying of raisins; but
+the local tradition gives the honor of the latter industry to the Moors,
+who are said to have brought with them the variety of grape known as the
+Muscat of Alexandria. During a part of the year, Denia is the export
+harbor for the raisins of the district. This is only possible in the
+early part of the raisin season, as then only are the winds
+favorable,--the so-called harbor being nothing but a roadstead. Later in
+the season, when storms and rains set in, all the raisins are shipped to
+Valencia by railroad, and from there exported by steamers and sailing
+vessels.
+
+Among other industries of the Denia district are the cultivation of
+onions, the manufacture of cotton goods, its sardine fisheries, etc.,
+all giving work to the vineyard workers during a time of the year when
+there is nothing or but little to do in the vineyards and
+packing-houses.
+
+The raisins of Denia are not all of the same quality, but vary according
+to the locality where grown. The whole district is dotted with small
+villages, all producing raisins. The principal ones of these are,
+besides Denia proper, Jabea, Jaraco, Jerrea, Oliva, Pedreguer, Jalon,
+Gandia, Ondara, Vergel, etc. Of these, Denia proper produced in 1876
+over 2,500 tons of raisins, Jabea 1,700 tons, Oliva 1,600 tons,
+Pedreguer 1,000 tons, Retoria 900 tons, Jalon 850 tons, Ondara and
+Benisa 800 tons each. But, besides these, there are some twenty odd more
+villages or smaller raisin centers, which produce from 200 to 700 tons
+each, or an aggregate of 20,000 tons of raisins.

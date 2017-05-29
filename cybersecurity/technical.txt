@@ -1,0 +1,46 @@
+Technical Measures
+Technology is the first line of defense against cyberthreats and malicious online agents. Without adequate
+technical measures and the capabilities to detect and respond to cyberattacks, nation states and their
+respective entities remain vulnerable to cyberthreats. The emergence and success of ICTs can only truly
+prosper in a climate of trust and security. Nation states therefore need to be capable of developing
+strategies for the establishment of accepted minimum security criteria and accreditation schemes for
+software applications and systems. These efforts need to be accompanied by the creation of a national
+entity focused on dealing with cyber incidents at a national level, at the very least with a responsible
+government agency and with an accompanying national framework for watch, warning and incident
+response.
+Technical measures can be measured based on the existence and number of technical institutions and
+frameworks dealing with cybersecurity endorsed or created by the nation state. The sub-group is composed
+of the following performance indicators:
+
+A. CERT/CIRT/CSIRT
+The establishment of a national CIRT (Computer Incident Response Team), CERT (Computer Emergency
+Response Team) or CSIRT (Computer Security incident Response Team) which provides the capabilities to
+identify, defend, respond and manage cyber threats and enhance cyberspace security in the nation state.
+This ability needs to be coupled with the gathering of its own intelligence instead of relying on secondary
+reporting of security incidents whether from the CIRT’s constituencies or from other sources. Please specify
+the names and number of officially approved national or sector-specific* CERT or CSIRT teams, and whether
+they are legally mandated or not. The level of development will be ranked based on if there are any national
+teams and whether they are legally mandated or not.
+B. Standards
+This indicator measures the existence of a government-approved (or endorsed) framework (or frameworks)
+for the implementation of internationally recognized cybersecurity standards within the public sector
+(government agencies) and within the critical infrastructure (even if operated by the private sector). These
+standards include, but are not limited to those developed by the following agencies: ISO, ITU, IETF, IEEE,
+ATIS, OASIS, 3GPP, 3GPP2, IAB, ISOC, ISG, ISI, ETSI, ISF, RFC, ISA, IEC, NERC, NIST, FIPS, PCI DSS, etc. Please
+specify any officially-approved national (and sector specific) frameworks for implementing internationally
+recognized cybersecurity standards.
+C. Certification
+This indicator measures the existence of a government-approved (or endorsed) framework (or frameworks)
+for the certification and accreditation of national (government) agencies and public sector professionals by
+internationally recognized cybersecurity standards. These certifications, accreditations and standards
+include, but are not limited to, the following: Cloud Security knowledge (Cloud Security Alliance), CISSP,
+SSCP, CSSLP CBK, Cybersecurity Forensic Analyst (ISC²), GIAC, GIAC GSSP (SANS), CISM, CISA, CRISC (ISACA),
+CompTIA, C|CISO, CEH, ECSA, CHFI (EC Council), OSSTMM (ISECOM), PCIP/CCISP (Critical Infrastructure
+Institute), (No Suggestions) Certification, Q/ISP, Software Security Engineering Certification (Security
+University), CPP, PSP, PCI (ASIS), LPQ, LPC (Loss Prevention Institute, CFE (Association of Certified Fraud
+Examiners), CERT-Certified Computer Security Incident Handler (SEI), CITRMS (Institute of Consumer
+Financial Education), CSFA (Cybersecurity Institute), CIPP (IAPP), ABCP, CBCP, MBCP (DRI), BCCP, BCCS,
+BCCE, DRCS, DRCE (BCM), CIA, CCSA (Institute of Internal Auditors), (Professional Risk Managers
+International Association), PMP (Project Management Institute), etc. Please specify any officially approved
+national (and sector specific) frameworks for the certification and accreditation of national agencies and
+public sector professionals.

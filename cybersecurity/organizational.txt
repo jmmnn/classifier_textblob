@@ -1,0 +1,54 @@
+Organizational Measures
+Organization and procedural measures are necessary for the proper implementation of any type of national
+initiative. A broad strategic objective needs to be set by the nation state, with a comprehensive plan in
+implementation, delivery and measurement. Structures such as national agencies need to put in place in
+order to put the strategy into effect and evaluate the success or failure of the plan. Without a national
+strategy, governance model and supervisory body, efforts in different sectors and industries become
+disparate and unconnected, thwarting efforts to reach national harmonization in terms of cybersecurity
+capability development.
+The organizational structures can be measured based on the existence and number of institutions and
+strategies organizing cybersecurity development at the national level. The creation of effective
+organizational structures is necessary for promoting cybersecurity, combating cybercrime and promoting
+the role of watch, warning and incident response to ensure intra-agency, cross-sector and cross-border
+coordination between new and existing initiatives. The sub-group is composed of the following
+performance indicators:
+A. Policy
+The development of a policy to promote cybersecurity is recognized as a top priority. A national strategy
+for Security of Network and Information Systems should maintain resilient and reliable information
+infrastructure and aim to ensure the safety of citizens; protect the material and intellectual assets of
+citizens, organizations and the State; prevent cyber-attacks against critical infrastructures; and minimize
+damage and recovery times from cyber-attacks. Policies on National Cybersecurity Strategies or National
+Plans for the Protection of Information Infrastructures are those officially defined and endorsed by a nation
+sate, and can include the following commitments: establishing clear responsibility for cybersecurity at all
+levels of government (local, regional and federal or national), with clearly defined roles and responsibilities;
+making a clear commitment to cybersecurity, which is public and transparent; encouraging private sector
+involvement and partnership in government-led initiatives to promote cybersecurity. Please specify any
+officially recognized national or sector-specific cybersecurity strategy.
+B. Roadmap for governance
+A roadmap for governance in cybersecurity is generally established by a national strategy /policy for
+cybersecurity, and identifies key stakeholders. The development of a national policy framework is a top
+priority in developing high-level governance for cybersecurity. The national policy framework must take
+into account the needs of national critical information infrastructure protection. It should also seek to foster
+information-sharing within the public sector, and also between the public and private sectors. Cybersecurity
+governance should be built on a national framework addressing challenges and other information security
+and network security issues at the national level, which could include: national strategy and policy; legal
+foundations for transposing security laws into networked and online environments; involvement of all
+stakeholders; developing a culture for cybersecurity; procedures for addressing ICT security breaches and
+incident-handling (reporting, information sharing, alerts management, justice and police collaboration);
+effective implementation of the national cybersecurity policy; cybersecurity program control, evaluation,
+validation and optimization. Please specify any officially recognized national or sector-specific governance
+roadmap for cybersecurity.
+C. Responsible agency
+A responsible agency for implementing a national cybersecurity strategy/policy can include permanent
+committees, official working groups, advisory councils or cross-disciplinary centers. Most national agencies
+will be directly responsible for watch and warning systems and incident response, and for the development
+of organizational structures needed for coordinating responses to cyber-attacks. Please specify any officially
+recognized national or sector-specific cybersecurity agency.
+D. National benchmarking
+This indicator measures the existence of any officially recognized national or sector-specific benchmarking
+exercises or referential used to measure cybersecurity development. For example, based on ISO/IEC 27002-
+2005, a national cybersecurity standard (NCSec Referential) can help nation states respond to specify
+cybersecurity requirements. This referential is split into five domains: NCSec Strategy and Policies; NCSec
+Organizational Structures; NCSec Implementation; National Coordination; Cybersecurity Awareness
+Activities. Please specify any officially recognized national or sector-specific benchmarking exercises or
+referential used to measure cybersecurity development.

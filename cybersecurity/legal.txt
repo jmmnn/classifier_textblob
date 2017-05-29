@@ -1,0 +1,32 @@
+Legal Measures
+Legislation is a critical measure for providing a harmonized framework for entities to align themselves to a
+common regulatory basis, whether on the matter of prohibition of specified criminal conduct or minimum
+regulatory requirements. Legal measures also allow a nation state to set down the basic response
+mechanisms to breach: through investigation and prosecution of crimes and the imposition of sanctions for
+non-compliance or breach of law. A legislative framework sets the minimum standards of behaviour across
+the board, applicable to all, and on which further cybersecurity capabilities can be built. Ultimately, the goal
+is to enable all nation states to have adequate legislation in place in order to harmonize practices
+supranationally and offer a setting for interoperable measures, facilitating international combat against
+cybercrime.
+The legal environment can be measured based on the existence and number of legal institutions and
+frameworks dealing with cybersecurity and cybercrime. The sub-group is composed of the following
+performance indicators:
+A. Criminal legislation
+Cybercrime legislation designates laws on the unauthorized (without right) access, interference,
+interception of computers, systems and data. The laws can be ranked by level: none, partial or
+comprehensive. Partial legislation refers to the simple insertion of computer-related wording in an existing
+criminal law or code, with language limited to extending for example fraud or forgery, or surveillance and
+theft to cyberspace. Comprehensive legislation refers to the enactment of a dedicated law or act dealing
+with the specific aspects of computer crime (i.e. the UK Computer Misuse Act 1990). This category can
+include partial legislation where the case law or jurisprudence is extensively developed. Please specify the
+types of laws and regulations and whether there are none or whether they are partial or comprehensive.
+B. Regulation and compliance
+Cybersecurity regulation designates laws dealing with data protection, breach notification and
+certification/standardization requirements. The laws can be ranked by level: none, partial or
+comprehensive. Partial regulation refers to the insertion of computer-related wording in existing or new
+criminal or civil law, so that the law extends applicability to cyberspace in regulation not specifically or
+uniquely related to cybersecurity (i.e. the EU Directive 95/46/EC on the protection of individuals with regard
+to the processing of personal data and on the free movement of such data). Comprehensive regulation
+refers to the enactment of a dedicated law, act or directive requiring cybersecurity compliance (i.e. the US
+Federal Information Security Management Act 2002). Please specify the types of laws and regulations and
+whether there are none or whether they are partial or comprehensive. 
